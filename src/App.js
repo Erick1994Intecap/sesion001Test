@@ -12,6 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <MiComponente></MiComponente>
+        <EventosComponente></EventosComponente>
         <LibrosComponente></LibrosComponente>
       </header>
     </div>
