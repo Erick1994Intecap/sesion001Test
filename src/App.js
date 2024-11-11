@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import MiComponente from './MiComponente';
 import { EventosComponente } from './EventosComponente';
+import { LibrosComponente } from './LibrosComponente';
 
 function App() {
   return (
@@ -11,8 +12,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <MiComponente></MiComponente>
-        <EventosComponente></EventosComponente>
+        <LibrosComponente></LibrosComponente>
       </header>
     </div>
   );
